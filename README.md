@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @glanch
-- 👀 I’m interested in Embedded Software Engineering, (Mixed-)Integer and Linear Programming and Python
+- 👀 I’m interested in Embedded Software Engineering, Python, (Mixed-)Integer and Linear Programming
 - 🌱 I’m currently learning Flutter, Dart and Rust
 
 <!---
