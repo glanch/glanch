@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @glanch
-- 👀 I’m interested in Embedded Software Engineering, Functional Programming, Python, (Mixed-)Integer Linear Programming, especially Branch-and-Price
+- 👀 I’m interested in Python, Functional Programming, (Mixed-)Integer Linear Programming, especially Branch-and-Price and Embedded Software Engineering
 - 🌱 I’m currently learning Rust
 
 <!---
